@@ -34,5 +34,5 @@ Sentiment analysis is a key technique in Natural Language Processing (NLP) for u
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com//.git
-cd sentiment-analysis-amazon
+git clone https://github.com/nishusingh02/Sentimental-Analysis-NLTK-and-Hugging-face.git
+cd sentimental analysis of product
