@@ -29,21 +29,10 @@ Sentiment analysis is a key technique in Natural Language Processing (NLP) for u
 
 ---
 
-## 🗂️ Dataset
-
-The dataset used is a collection of **Amazon customer reviews**. Each entry includes:
-
-- Review Text
-- (Optional) Rating
-- Ground truth sentiment (for evaluation)
-
-You can use your own dataset or download a sample dataset like the [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html) from UCSD.
-
----
 
 ## 🚀 Setup & Installation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-amazon.git
+git clone https://github.com//.git
 cd sentiment-analysis-amazon
