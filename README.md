@@ -87,4 +87,45 @@ Open the notebook in browser and follow the cells to execute the analysis.
 
 ## 📊 Output & Visualization
 
-* Pie charts and
+* Pie charts and bar graphs to show sentiment distributions.
+* Confusion matrix and accuracy scores to compare model effectiveness.
+* Examples of sentiment misclassifications.
+
+---
+
+## 📊 Results Summary
+
+* VADER is fast and interpretable but struggles with nuanced language.
+* RoBERTa performs better on complex, long reviews with high accuracy.
+* Final recommendation depends on use-case (speed vs. depth).
+
+---
+
+## 📁 Project Structure
+
+```
+Sentimental-Analysis-NLTK-and-Hugging-face/
+│
+├── SentimentAnalysis.ipynb     # Main analysis notebook
+├── sample_reviews.csv          # Input data (if any)
+├── README.md                   # Project documentation
+└── requirements.txt            # Python dependencies
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🌟 Acknowledgements
+
+* [Hugging Face Transformers](https://huggingface.co/transformers/)
+* [NLTK Project](https://www.nltk.org/)
+* [Amazon Review Dataset](https://nijianmo.github.io/amazon/index.html)
+
+---
+
+Feel free to fork, star, and contribute! 🚀
